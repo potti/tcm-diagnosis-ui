@@ -1,0 +1,61 @@
+{
+    "statusCode": 1,
+    "data": [
+        {
+            "key": "10",
+            "title": "左总",
+            "value": "",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "11",
+            "title": "左上鱼",
+            "value": "",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "12",
+            "title": "左外寸",
+            "value": "",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "13",
+            "title": "左内寸",
+            "value": "",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "14",
+            "title": "左外关",
+            "value": "",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "15",
+            "title": "左内关",
+            "value": "",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "16",
+            "title": "左外尺",
+            "value": "",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "17",
+            "title": "左内尺",
+            "value": "",
+            "value_type": "",
+            "options": []
+        }
+    ]
+}

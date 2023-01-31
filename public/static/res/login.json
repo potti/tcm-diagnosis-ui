@@ -1,0 +1,8 @@
+{
+    "statusCode": 1,
+    "message": "登陆成功",
+    "data": {
+        "userName": "potti",
+        "token": "qwertyuiopasdfghjklzxcvbnm"
+    }
+}

@@ -1,0 +1,246 @@
+{
+    "statusCode": 1,
+    "data": [
+        {
+            "key": "40",
+            "value": "",
+            "title": "舌色",
+            "value_type": "select",
+            "options": [{
+                "key":"正常",
+                "value":"正常"
+            },{
+                "key":"淡红",
+                "value":"淡红"
+            },{
+                "key":"红",
+                "value":"红"
+            },{
+                "key":"红绛",
+                "value":"红绛"
+            },{
+                "key":"淡白",
+                "value":"淡白"
+            },{
+                "key":"淡紫",
+                "value":"淡紫"
+            },{
+                "key":"黯",
+                "value":"黯"
+            },{
+                "key":"青紫",
+                "value":"青紫"
+            },{
+                "key":"尖红",
+                "value":"尖红"
+            }]
+        },
+        {
+            "key": "41",
+            "value": "",
+            "title": "舌体",
+            "value_type": "select",
+            "options": [{
+                "key":"正常",
+                "value":"正常"
+            },{
+                "key":"稍胖",
+                "value":"稍胖"
+            },{
+                "key":"胖大",
+                "value":"胖大"
+            },{
+                "key":"稍瘦",
+                "value":"稍瘦"
+            },{
+                "key":"瘦小",
+                "value":"瘦小"
+            },{
+                "key":"瘦长",
+                "value":"瘦长"
+            }]
+        },
+        {
+            "key": "42",
+            "value": "",
+            "title": "裂纹",
+            "value_type": "select",
+            "options": [{
+                "key":"无",
+                "value":"无"
+            },{
+                "key":"多小裂",
+                "value":"多小裂"
+            },{
+                "key":"多大裂",
+                "value":"多大裂"
+            },{
+                "key":"中大裂",
+                "value":"中大裂"
+            },{
+                "key":"中小裂",
+                "value":"中小裂"
+            },{
+                "key":"偏裂",
+                "value":"偏裂"
+            }]
+        },
+        {
+            "key": "43",
+            "value": "",
+            "title": "齿痕",
+            "value_type": "select",
+            "options": [{
+                "key":"0",
+                "value":"0"
+            },{
+                "key":"1",
+                "value":"1"
+            },{
+                "key":"2",
+                "value":"2"
+            },{
+                "key":"3",
+                "value":"3"
+            },{
+                "key":"4",
+                "value":"4"
+            }]
+        },
+        {
+            "key": "44",
+            "value": "",
+            "title": "苔质",
+            "value_type": "select",
+            "options": [{
+                "key":"正常",
+                "value":"正常"
+            },{
+                "key":"无",
+                "value":"无"
+            },{
+                "key":"少",
+                "value":"少"
+            },{
+                "key":"剥",
+                "value":"剥"
+            },{
+                "key":"薄",
+                "value":"薄"
+            },{
+                "key":"稍厚",
+                "value":"稍厚"
+            },{
+                "key":"厚",
+                "value":"厚"
+            },{
+                "key":"左半舌厚",
+                "value":"左半舌厚"
+            },{
+                "key":"右半舌厚",
+                "value":"右半舌厚"
+            }]
+        },
+        {
+            "key": "45",
+            "value": "",
+            "title": "苔色",
+            "value_type": "select",
+            "options": [{
+                "key":"正常",
+                "value":"正常"
+            },{
+                "key":"白",
+                "value":"白"
+            },{
+                "key":"黄",
+                "value":"黄"
+            },{
+                "key":"焦",
+                "value":"焦"
+            },{
+                "key":"灰",
+                "value":"灰"
+            },{
+                "key":"黑",
+                "value":"黑"
+            }]
+        },
+        {
+            "key": "46",
+            "value": "",
+            "title": "津液",
+            "value_type": "select",
+            "options": [{
+                "key":"正常",
+                "value":"正常"
+            },{
+                "key":"干",
+                "value":"干"
+            },{
+                "key":"燥",
+                "value":"燥"
+            },{
+                "key":"多液",
+                "value":"多液"
+            }]
+        },
+        {
+            "key": "47",
+            "value": "",
+            "title": "舌下色",
+            "value_type": "select",
+            "options": [{
+                "key":"正常",
+                "value":"正常"
+            },{
+                "key":"浅淡",
+                "value":"浅淡"
+            },{
+                "key":"红",
+                "value":"红"
+            },{
+                "key":"黯",
+                "value":"黯"
+            }]
+        },
+        {
+            "key": "48",
+            "value": "",
+            "title": "舌下脉络",
+            "value_type": "select",
+            "options": [{
+                "key":"正常",
+                "value":"正常"
+            },{
+                "key":"迂直未超过舌半",
+                "value":"迂直未超过舌半"
+            },{
+                "key":"迂直超过舌半以上",
+                "value":"迂直超过舌半以上"
+            },{
+                "key":"怒张在舌根部",
+                "value":"怒张在舌根部"
+            },{
+                "key":"怒张超过舌半以上",
+                "value":"怒张超过舌半以上"
+            }]
+        },
+        {
+            "key": "49",
+            "value": "",
+            "title": "舌下血丝",
+            "value_type": "select",
+            "options": [{
+                "key":"无血丝",
+                "value":"无血丝"
+            },{
+                "key":"血丝多细小",
+                "value":"血丝多细小"
+            },{
+                "key":"血丝粗大出血状",
+                "value":"血丝粗大出血状"
+            }]
+        }
+    ]
+}

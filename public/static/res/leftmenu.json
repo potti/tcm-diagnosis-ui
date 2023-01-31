@@ -1,0 +1,41 @@
+{
+    "statusCode": 1,
+    "message": "数据加载成功",
+    "data": [
+        {
+            "id": "1",
+            "label": "日常",
+            "icon": "el-icon-house",
+            "children": [
+                {
+                    "id": "1-1",
+                    "label": "门诊",
+                    "icon": "el-icon-edit-outline",
+                    "path": "/daily/patient",
+                    "component": "/daily/patientView"
+                },
+                {
+                    "id": "1-2",
+                    "label": "查询",
+                    "icon": "el-icon-user",
+                    "path": "/daily/patient",
+                    "component": "/daily/patientView"
+                }
+            ]
+        },
+        {
+            "id": "10",
+            "label": "配置",
+            "icon": "el-icon-setting",
+            "children": [
+                {
+                    "id": "10-1",
+                    "label": "字典配置",
+                    "icon": "el-icon-postcard",
+                    "path": "/setting/dictionary",
+                    "component": "/setting/dicView"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "statusCode": 1,
+    "data": [
+        {
+            "key": "20",
+            "value": "",
+            "title": "右总",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "21",
+            "value": "",
+            "title": "右上鱼",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "22",
+            "value": "",
+            "title": "右外寸",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "23",
+            "value": "",
+            "title": "右内寸",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "24",
+            "value": "",
+            "title": "右外关",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "25",
+            "value": "",
+            "title": "右内关",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "26",
+            "value": "",
+            "title": "右外尺",
+            "value_type": "",
+            "options": []
+        },
+        {
+            "key": "27",
+            "value": "",
+            "title": "右内尺",
+            "value_type": "",
+            "options": []
+        }
+    ]
+}

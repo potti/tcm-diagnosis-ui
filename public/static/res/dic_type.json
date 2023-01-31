@@ -1,0 +1,25 @@
+{
+    "statusCode": 1,
+    "data": [
+        {
+            "dic_index": "1",
+            "dic_name": "左部"
+        },
+        {
+            "dic_index": "2",
+            "dic_name": "右部"
+        },
+        {
+            "dic_index": "3",
+            "dic_name": "脉象"
+        },
+        {
+            "dic_index": "4",
+            "dic_name": "舌色"
+        },
+        {
+            "dic_index": "5",
+            "dic_name": "舌体"
+        }
+    ]
+}
